@@ -2,7 +2,7 @@
 Welcome to the corner of the internet where I put all my terrible code up for the world to see. <br>
 Look around and browse my wares, if there's something you like give it a star and take it for free (it's open source anyway).<br>
 <br>
-Currently Working On --> [?]() <br>
+Currently Working On --> [KiKard](https://github.com/m5kro/kikard) <br>
 Medium Articles --> https://medium.com/@m5kro <br>
 My Website --> https://m5kro.org  (just all my articles for now) <br>
 <br>
