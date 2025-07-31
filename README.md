@@ -1,6 +1,6 @@
-## Whats up?
-Welcome to the corner of the internet where I put all my terrible code up for the world to see. <br>
-Look around and browse my wares, if there's something you like give it a star and take it for free (it's open source anyway).<br>
+## What's up?
+Welcome to the corner of the internet where I post my code! <br>
+Look around and browse my wares. If there's anything you like, give it a star and take it for free (it's open source anyway).<br>
 <br>
 Currently Working On --> [Xenolauncher](https://github.com/m5kro/xenolauncher) <br>
 Medium Articles --> https://medium.com/@m5kro <br>
