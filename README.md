@@ -4,7 +4,7 @@ Look around and browse my wares. If there's anything you like, give it a star an
 
 ***
 Currently Working On &rarr; [Xenolauncher](https://github.com/m5kro/xenolauncher) <br>
-Medium Articles &rarr; https://medium.com/@ell0tr <br>
+Medium Articles &rarr; https://medium.com/@m5kro <br>
 My Website &rarr; https://m5kro.org  (just all my articles for now) <br>
 ***
 
