@@ -8,5 +8,5 @@ Medium Articles &rarr; https://medium.com/@m5kro <br>
 My Website &rarr; https://m5kro.org  (just all my articles for now) <br>
 ***
 
-![m5kro's GitHub stats](https://github-readme-stats.vercel.app/api?username=m5kro&show_icons=true&theme=tokyonight&hide_rank=true)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m5kro&layout=compact&theme=tokyonight)
+![m5kro's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=m5kro&show_icons=true&theme=tokyonight&hide_rank=true)<br>
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=m5kro&layout=compact&theme=tokyonight)
